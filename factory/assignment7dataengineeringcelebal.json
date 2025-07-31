@@ -1,0 +1,9 @@
+{
+	"name": "assignment7dataengineeringcelebal",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2a3a77f7-0db8-45d9-8805-0a963d80b8bb",
+		"tenantId": "1e619b77-d652-418c-ba43-ceca754dac1d"
+	}
+}
